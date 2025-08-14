@@ -21,31 +21,31 @@
 <img align="right" alt="Programmer Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <pre>
-💡  Hello World! I'm YOUR_NAME
+💡  Hello World! I'm Muskan Chauhan
 
 🔍  I’m building a career in the Data/AI domain.
      I love cleaning data and training ML models to solve real problems.
 🔗  Actively exploring LangChain-based AI assistants and end-to-end data pipelines on cloud.
 
-🎓  Currently: YOUR_CURRENT_STATUS (e.g., BTech CSE | Graduate | Working Professional)
-     Learning: LangChain • LLMs • Big Data tools
+🎓  Currently: Completed PG in Big Data Analystics. (e.g., BTech CSE | Graduate | Working Professional)
+     Learning: LangChain • LLMs • Big Data tools 
 
 ⚒️  Projects I enjoy:
-     → SQL/Vector Chatbots   → Time Series Forecasting
-     → E-Commerce Analytics  → Data Pipelines on AWS
+     → NLP-to-SQL Bot using LangChain   → Personal Financial Advisor System
+     → EDA Case Studies   → Ola Data Analytics End-to-End Project
 
-🌐  Tech interests: LangChain · LLMs · AWS · Spark · Pandas · Streamlit · Flask
+🌐  Tech interests: LangChain · LLMs · SQL · Spark · Pandas · Streamlit · Flask
 
 🧠  Belief: Keep building, keep breaking, and always keep learning.
 </pre>
 
-- 🔭 Currently working on: **YOUR_CURRENT_PROJECT_TITLE** — *short 1-line description*
-- 🛠️ Also building: **YOUR_SECOND_PROJECT_TITLE** — *short 1-line description*
-- 📬 Reach me at: **YOUR_EMAIL**
+- 🔭 Currently working on: **NLP-to-SQL Bot using LangChain** — *short 1-line description*
+- 🛠️ Also building: ** Ola Data Analytics End-to-End Project**
+- 📬 Reach me at: **muskanchauhan6065@gmail.com**
 - 🌱 Exploring:
   1. LangChain
   2. AWS (S3, IAM, SageMaker, Lambda)
-  3. Time Series (ARIMA/SARIMA/LSTM/Prophet)
+  3. Case Studies
 
 ---
 
