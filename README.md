@@ -101,8 +101,7 @@
 <!-- Replace with your own repos and one-liners -->
 - [SQL CHATBOT USING LANGCHAIN](https://github.com/muskanchauhan1/NLP-to-SQL-Bot-using-LangChain) — LLM-powered SQL assistant
 - 🛒 [PERSONAL FINANCIAL ADVISOR SYSTEM](https://github.com/muskanchauhan1/Personal-Financial-Advisor-System) — Personalised Financial Advisor System  
-- 🔍 [YOUR_ANALYTICS_REPO](https://github.com/muskanchauhan1/Ola-Data-Analytics-End-to-End-Project) — Data cleaning, EDA, insights on real-world datasets  
-- 📈 [YOUR_FRAUD_REPO](YOUR_FRAUD_LINK) — Fraud detection models and evaluation  
+- 🔍 [OLA DATA ANALYTICS END TO END PROJECT](https://github.com/muskanchauhan1/Ola-Data-Analytics-End-to-End-Project) — Data cleaning, EDA, insights on real-world datasets  
 
 ---
 
