@@ -107,9 +107,9 @@
 
 <h2>📜 Certifications & Courses</h2>
 
-- YOUR_CERT_1 (Issuer, Duration)
-- YOUR_CERT_2 (Issuer, Duration)
-- YOUR_CERT_3 (Issuer, Duration)
+- Generative AI using LangChain and Hugging Face (Udemy)
+- Bootcamp on Data Science, Machine Learning, Deep Learning, and NLP (Udemy)
+- Completed IBM’s SQL and Relational Databases 101 certification, Hadoop 101 certification, Data Visualization with R certification. (IBM)
 
 ---
 
