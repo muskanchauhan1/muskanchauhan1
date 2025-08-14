@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:muskachauhan6065@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="YOUR_EMAIL" />
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="www.linkedin.com/in/muskanchauhan6065" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/muskanchauhan1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
