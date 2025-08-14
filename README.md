@@ -116,16 +116,17 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=muskanchauhan1&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width=390 src="https://streak-stats.demolab.com?user=muskanchauhan1&theme=tokyonight&hide_border=true" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=muskanchauhan1&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanchauhan1&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
