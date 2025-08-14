@@ -99,7 +99,7 @@
 📂 **Featured Projects**
 
 <!-- Replace with your own repos and one-liners -->
-- 💬 [ NLP_to_SQL_Bot_using_LangChain]([YOUR_SQL_CHATBOT_LINK](https://github.com/muskanchauhan1/NLP-to-SQL-Bot-using-LangChain)) — LLM-powered SQL/Vector assistant  
+- [SQL Chatbot using LangChain](https://github.com/muskanchauhan1/NLP-to-SQL-Bot-using-LangChain)
 - 🛒 [YOUR_ECOM_REPO](YOUR_ECOM_LINK) — Hadoop/Spark analytics pipeline for e-commerce data  
 - 🔍 [YOUR_ANALYTICS_REPO](YOUR_ANALYTICS_LINK) — Data cleaning, EDA, insights on real-world datasets  
 - 📈 [YOUR_FRAUD_REPO](YOUR_FRAUD_LINK) — Fraud detection models and evaluation  
