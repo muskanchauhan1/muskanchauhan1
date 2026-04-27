@@ -32,7 +32,7 @@
 
 ⚒️  Projects I enjoy:
      → NLP-to-SQL Bot using LangChain   → Personal Financial Advisor System
-     → EDA Case Studies   → Ola Data Analytics End-to-End Project
+     → NLP-Review-Intelligence-System  → Ola Data Analytics End-to-End Project
 
 🌐  Tech interests: LangChain · LLMs · SQL · Spark · Pandas · Streamlit · Flask
 
