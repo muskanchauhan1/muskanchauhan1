@@ -27,7 +27,7 @@
      I love cleaning data and training ML models to solve real problems.
 🔗  Actively exploring LangChain-based AI assistants and end-to-end data pipelines on cloud.
 
-🎓  Currently: Completed PG in Big Data Analystics. (e.g., BTech CSE | Graduate | Working Professional)
+🎓  Currently: Completed PG in Big Data Analystics. (e.g., BTech  | Graduate | Working Professional)
      Learning: LangChain • LLMs • Big Data tools 
 
 ⚒️  Projects I enjoy:
